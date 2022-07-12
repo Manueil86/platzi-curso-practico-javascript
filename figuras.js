@@ -2,7 +2,6 @@
 console.group("Cuadrados");
 
 const ladoCuadrado = 5;
-console.log('esto es una prueba',ladoCuadrado);
 console.log("Los lados del cuadrado miden: " + ladoCuadrado + "cm");
 
 const perimetroCuadrado = ladoCuadrado * 4;
